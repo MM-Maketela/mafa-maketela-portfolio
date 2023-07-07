@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mafa-maketela-portfolio/static/css/main.acbf789b.css",
+    "main.css": "/mafa-maketela-portfolio/static/css/main.71f36f3a.css",
     "main.js": "/mafa-maketela-portfolio/static/js/main.ad0d9cde.js",
     "static/js/787.e6e3b382.chunk.js": "/mafa-maketela-portfolio/static/js/787.e6e3b382.chunk.js",
     "static/media/bgpic_2.jpg": "/mafa-maketela-portfolio/static/media/bgpic_2.d2072186d02b364ed830.jpg",
@@ -17,12 +17,12 @@
     "static/media/linkedin.png": "/mafa-maketela-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/revicons.woff": "/mafa-maketela-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/mafa-maketela-portfolio/index.html",
-    "main.acbf789b.css.map": "/mafa-maketela-portfolio/static/css/main.acbf789b.css.map",
+    "main.71f36f3a.css.map": "/mafa-maketela-portfolio/static/css/main.71f36f3a.css.map",
     "main.ad0d9cde.js.map": "/mafa-maketela-portfolio/static/js/main.ad0d9cde.js.map",
     "787.e6e3b382.chunk.js.map": "/mafa-maketela-portfolio/static/js/787.e6e3b382.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.acbf789b.css",
+    "static/css/main.71f36f3a.css",
     "static/js/main.ad0d9cde.js"
   ]
 }
