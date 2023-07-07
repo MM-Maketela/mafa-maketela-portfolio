@@ -490,7 +490,7 @@ body{
     font-size: 2rem;
 }
 .info{
-    font-size: 1rem;
+    font-size: 1rem !important;
     margin-block: 1rem;
 }
 .FooterContainer{
@@ -500,6 +500,7 @@ body{
     background-color: #050A30;
     color: white;
     margin-top: 5rem;
+    font-size: 1.2rem;
 }
 .copyRights{
     display: flex;
