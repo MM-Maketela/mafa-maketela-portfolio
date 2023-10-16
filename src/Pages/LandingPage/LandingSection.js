@@ -1,9 +1,9 @@
 import React, { Component} from 'react';
 import classes from './LandingPage.module.css';
-import backgroundImage from '../../Assets/Images/bgpic_2.jpg';
+import backgroundImage from '../../Assets/Images/pic6.jpg';
 
 
-export default class Section1 extends Component {
+export default class LandingSection extends Component {
   render() {
     return (
       <>

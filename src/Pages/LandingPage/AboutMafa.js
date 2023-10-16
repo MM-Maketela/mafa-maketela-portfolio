@@ -1,7 +1,7 @@
 import classes from './LandingPage.module.css';
 import React, { Component } from 'react';
-import mafa from '../../Assets/Images/mafa2.jpg';
-export default class Section2 extends Component {
+import mafa from '../../Assets/Images/mafaLatest.jpeg';
+export default class AboutMafa extends Component {
   render() {
     return (
       <>
@@ -15,7 +15,7 @@ export default class Section2 extends Component {
               <div className={classes.divider}></div>
               <div className={classes.infoAboutMafa}>
                 <div className={classes.infoAboutMafa1}>
-                  My name is Mafa Maketela, as of 2022 I am doing my final year
+                  My name is Mafa Maketela, as of 2023 I am doing my final year
                   in computer science.
                   <br />
                   <br />
@@ -36,9 +36,6 @@ export default class Section2 extends Component {
                   hard-working and believe you will give me a chance to prove my
                   words.
                 </div>
-              </div>
-              <div className={classes.myButton}>
-                <button>Learn more</button>
               </div>
             </div>
           </div>

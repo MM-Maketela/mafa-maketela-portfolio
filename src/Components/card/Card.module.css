@@ -1,0 +1,78 @@
+.card{
+    box-sizing: border-box;
+    position: relative;
+    box-sizing: border-box;
+    height: 25rem;
+}
+#image{
+    width: 100%;
+   box-sizing: border-box;
+   height: 25rem;
+ 
+}
+.imageContainer{
+    box-sizing: border-box;
+    width: 100%;
+}
+.innerContainer{
+    top: 0;
+    text-align: center;
+    left: 0;
+    position: absolute;
+    opacity: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgba(27, 68, 68, 0.75);
+    width: 100%;
+    height: 100%;
+    backdrop-filter:blur(10px);
+    color: white;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+@keyframes cardAnimationHover {
+    0% {opacity: 0;}
+    25% {opacity: .25;}
+    50% {opacity: .5;}
+    75% {opacity: .75;}
+    100% {opacity: 1;}
+}
+
+@keyframes cardAnimationHoverExit {
+    0% {opacity: 1;}
+    25% {opacity: .75;}
+    50% {opacity: .5;}
+    75% {opacity: .25;}
+    100% {opacity: 0;}
+}
+.innerContainer:hover{
+    animation-name: cardAnimationHover;
+    animation-duration: .5s;
+    opacity: 1;
+}
+
+
+.innerContainer:not( :hover ){ 
+    animation-name: cardAnimationHoverExit;
+    animation-duration: .5s;
+    opacity: 0;
+ }
+.name{
+    font-size: 2rem;
+}
+.type{
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+.info{
+    font-style: normal;
+   font-weight: 50;
+    margin-block: auto;
+    color: rgba(255, 255, 255, 0.7);
+}

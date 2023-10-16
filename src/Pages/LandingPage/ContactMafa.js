@@ -5,7 +5,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
 
-const Section4 = () => {
+const ContactMafa = () => {
   const form = useRef();
   const sendEmail = (e) => {
     e.preventDefault();
@@ -59,14 +59,14 @@ const Section4 = () => {
               <input
                 type={"text"}
                 name={"user_name"}
-                placeholder="Name"
+                placeholder="Your name"
               ></input>
               <input
                 type={"email"}
                 name={"user_email"}
-                 placeholder="Email"
+                 placeholder="Your email"
               ></input>
-              <textarea placeholder="Message" name={"message"}></textarea>
+              <textarea placeholder="Type your message to Mafa Maketela here." name={"message"}></textarea>
               <div className={classes.formButton}>
                 <button
                   type="submit"
@@ -81,4 +81,4 @@ const Section4 = () => {
     );
 };
 
-export default Section4;
+export default ContactMafa;
