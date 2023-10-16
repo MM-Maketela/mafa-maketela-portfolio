@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/mafa-maketela-portfolio/static/css/main.71f36f3a.css",
-    "main.js": "/mafa-maketela-portfolio/static/js/main.ad0d9cde.js",
+    "main.css": "/mafa-maketela-portfolio/static/css/main.377be379.css",
+    "main.js": "/mafa-maketela-portfolio/static/js/main.dd02017a.js",
     "static/js/787.e6e3b382.chunk.js": "/mafa-maketela-portfolio/static/js/787.e6e3b382.chunk.js",
-    "static/media/bgpic_2.jpg": "/mafa-maketela-portfolio/static/media/bgpic_2.d2072186d02b364ed830.jpg",
-    "static/media/mafa2.jpg": "/mafa-maketela-portfolio/static/media/mafa2.33b81d6b9d3cfe23a3fd.jpg",
+    "static/media/sali-eng.png": "/mafa-maketela-portfolio/static/media/sali-eng.dc67f6119e256edc62f2.png",
+    "static/media/amalgamation.png": "/mafa-maketela-portfolio/static/media/amalgamation.6763b278d4f570456cc3.png",
+    "static/media/pic6.jpg": "/mafa-maketela-portfolio/static/media/pic6.cc0d3cdb1cbbed21b560.jpg",
+    "static/media/easy-shopping-store.png": "/mafa-maketela-portfolio/static/media/easy-shopping-store.7dafe560a23fa3a99a15.png",
     "static/media/MusicPlayer.jpg": "/mafa-maketela-portfolio/static/media/MusicPlayer.2db87b2761a62fd99c8b.jpg",
     "static/media/votingFingerprintSystem.jpg": "/mafa-maketela-portfolio/static/media/votingFingerprintSystem.afff8b7913713921b439.jpg",
     "static/media/cinema.jpg": "/mafa-maketela-portfolio/static/media/cinema.ab406ae801ba09dbb433.jpg",
     "static/media/instagram.png": "/mafa-maketela-portfolio/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/mafaLatest.jpeg": "/mafa-maketela-portfolio/static/media/mafaLatest.f7115cb44f228f1fc4ad.jpeg",
     "static/media/whatsapp.png": "/mafa-maketela-portfolio/static/media/whatsapp.d026940870fb334920b7.png",
     "static/media/operator.png": "/mafa-maketela-portfolio/static/media/operator.78ed82a8fd73f29be8e7.png",
     "static/media/facebook.png": "/mafa-maketela-portfolio/static/media/facebook.01a470d813915c298403.png",
@@ -17,12 +20,12 @@
     "static/media/linkedin.png": "/mafa-maketela-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/revicons.woff": "/mafa-maketela-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/mafa-maketela-portfolio/index.html",
-    "main.71f36f3a.css.map": "/mafa-maketela-portfolio/static/css/main.71f36f3a.css.map",
-    "main.ad0d9cde.js.map": "/mafa-maketela-portfolio/static/js/main.ad0d9cde.js.map",
+    "main.377be379.css.map": "/mafa-maketela-portfolio/static/css/main.377be379.css.map",
+    "main.dd02017a.js.map": "/mafa-maketela-portfolio/static/js/main.dd02017a.js.map",
     "787.e6e3b382.chunk.js.map": "/mafa-maketela-portfolio/static/js/787.e6e3b382.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71f36f3a.css",
-    "static/js/main.ad0d9cde.js"
+    "static/css/main.377be379.css",
+    "static/js/main.dd02017a.js"
   ]
 }
