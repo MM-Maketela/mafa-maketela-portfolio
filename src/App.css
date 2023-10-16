@@ -7,4 +7,5 @@
 .App {
   background-color: var(--app-background-color);
   font-family: 'Times New Roman', Times, serif !important;
+  width: 1350px;
 }
