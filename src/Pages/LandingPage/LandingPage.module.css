@@ -16,7 +16,6 @@ body{
 }
 
 .landingPage{
-    min-width: 1350px !important;
     font-family: 'Times New Roman', Times, serif !important;
     text-align: center;
     font-size: 2rem;
