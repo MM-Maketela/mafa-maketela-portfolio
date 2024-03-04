@@ -110,6 +110,7 @@ body{
     box-shadow: 1px 1px 5px var(--app-color);
     border-radius: 0px;
     background-color: rgba(255, 255, 255, 0.5);
+    opacity: 0;
 }
 .hacker{
     margin: 0px;
@@ -166,7 +167,7 @@ body{
 .flexItem1{
     position: absolute;
     width: 30%;
-    font-size: 4rem;
+    font-size: 5vw;
     font-weight: bold;
     text-align: start;
     display: flex;
@@ -195,7 +196,7 @@ body{
 }
 
 .softText{
-    font-size: 1.3rem;
+    font-size: 2vw;   
     font-weight: normal;
     color: white;
     text-shadow: -1px 0 var(--app-color), 0 1px var(--app-color), 1px 0 var(--app-color), 0 -1px var(--app-color);
@@ -240,7 +241,7 @@ body{
 }
 .aboutHeadingText{
     
-    font-size: 4rem;
+    font-size: 6vw;
     font-weight: bold;
     color: white;
     background: linear-gradient(rgba(5, 10, 48, 1),rgba(0, 0, 255, 0.5),rgba(5, 10, 48, 1));

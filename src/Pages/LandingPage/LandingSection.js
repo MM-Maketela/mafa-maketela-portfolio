@@ -1,6 +1,6 @@
 import React, { Component} from 'react';
 import classes from './LandingPage.module.css';
-import backgroundImage from '../../Assets/Images/pic6.jpg';
+import backgroundImage from '../../Assets/Images/IMG_9565.jpeg';
 
 
 export default class LandingSection extends Component {
