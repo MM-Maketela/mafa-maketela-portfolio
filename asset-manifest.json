@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/mafa-maketela-portfolio/static/css/main.377be379.css",
-    "main.js": "/mafa-maketela-portfolio/static/js/main.dd02017a.js",
+    "main.css": "/mafa-maketela-portfolio/static/css/main.45baabb2.css",
+    "main.js": "/mafa-maketela-portfolio/static/js/main.4aff2d64.js",
     "static/js/787.e6e3b382.chunk.js": "/mafa-maketela-portfolio/static/js/787.e6e3b382.chunk.js",
+    "static/media/IMG_9565.jpeg": "/mafa-maketela-portfolio/static/media/IMG_9565.4443d2d61c1d17204571.jpeg",
     "static/media/sali-eng.png": "/mafa-maketela-portfolio/static/media/sali-eng.dc67f6119e256edc62f2.png",
     "static/media/amalgamation.png": "/mafa-maketela-portfolio/static/media/amalgamation.6763b278d4f570456cc3.png",
-    "static/media/pic6.jpg": "/mafa-maketela-portfolio/static/media/pic6.cc0d3cdb1cbbed21b560.jpg",
     "static/media/easy-shopping-store.png": "/mafa-maketela-portfolio/static/media/easy-shopping-store.7dafe560a23fa3a99a15.png",
     "static/media/MusicPlayer.jpg": "/mafa-maketela-portfolio/static/media/MusicPlayer.2db87b2761a62fd99c8b.jpg",
     "static/media/votingFingerprintSystem.jpg": "/mafa-maketela-portfolio/static/media/votingFingerprintSystem.afff8b7913713921b439.jpg",
@@ -20,12 +20,12 @@
     "static/media/linkedin.png": "/mafa-maketela-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/revicons.woff": "/mafa-maketela-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/mafa-maketela-portfolio/index.html",
-    "main.377be379.css.map": "/mafa-maketela-portfolio/static/css/main.377be379.css.map",
-    "main.dd02017a.js.map": "/mafa-maketela-portfolio/static/js/main.dd02017a.js.map",
+    "main.45baabb2.css.map": "/mafa-maketela-portfolio/static/css/main.45baabb2.css.map",
+    "main.4aff2d64.js.map": "/mafa-maketela-portfolio/static/js/main.4aff2d64.js.map",
     "787.e6e3b382.chunk.js.map": "/mafa-maketela-portfolio/static/js/787.e6e3b382.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.377be379.css",
-    "static/js/main.dd02017a.js"
+    "static/css/main.45baabb2.css",
+    "static/js/main.4aff2d64.js"
   ]
 }
